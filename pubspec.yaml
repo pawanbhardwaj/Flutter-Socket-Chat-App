@@ -28,6 +28,8 @@ dependencies:
   intl: ^0.16.1
   font_awesome_flutter: ^8.5.0
   lottie: ^0.2.1
+  dio:
+  http:
 
 dev_dependencies:
   flutter_test:

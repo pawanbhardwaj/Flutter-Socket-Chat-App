@@ -114,7 +114,7 @@ class MessagesItem extends StatelessWidget {
                                 height: 10,
                               ),
                               Text(
-                                DateFormat('HH:mm')
+                                DateFormat('HH:mm a')
                                     .format(_message.date)
                                     .toString(),
                                 textAlign: TextAlign.start,
